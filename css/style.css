@@ -1,0 +1,35 @@
+body{
+  background: white;
+}
+.image{
+  width: 30%;
+  position: absolute;
+  left: 980px;
+  top: 150px;
+}
+.quotes{
+  position: absolute;
+  left: 200px;
+  top: 130px;
+}
+.para{
+  width: 50%;
+    text-align: left;
+    font-family: monospace;
+    font-size: 32px;
+    line-height: 1.25;
+    position: absolute;
+    top: 250px;
+    left: 280px;
+}
+.curve{
+  margin: 105px;
+      position: absolute;
+      top: 506px;
+}
+.pattern{
+  top: 100px;
+      position: absolute;
+      left: 900px;
+      width: 40%;
+}
